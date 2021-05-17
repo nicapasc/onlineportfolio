@@ -1,13 +1,13 @@
 body {
   background: black;
-  color: #D3D5D7;
+  color: whitesmoke;
   font-family: Arial, Helvetica, sans-serif;
   padding: 50px;
   
 }
 
 h1 {
-  color: #D3D5D7;
+  color: whitesmoke;
   font-style: italic;
   font-family: "Times New Roman", Helvetica, Courier;
   font-size: 60px;
@@ -18,7 +18,7 @@ h1 {
 }
 
 h2 {
-  color: #697782;
+  color: whitesmoke;
   font-size: 30px;
   letter-spacing: 0px;
   font-style: italic;
@@ -26,7 +26,7 @@ h2 {
 }
 
 h3 {
-  color: #697782;
+  color: whitesmoke;
   font-size: 25px;
   letter-spacing: 0px;
   font-style: italic;
@@ -34,7 +34,7 @@ h3 {
 }
 
 h4 {
-  color: #697782;
+  color: whitesmoke;
   font-size: 20px;
   letter-spacing: 0px;
   font-style: italic;
@@ -42,7 +42,7 @@ h4 {
 }
 
 p {
-  color:#D3D5D7;
+  color:whitesmoke;
   font-family: Arial, Geneva, Tahoma, sans-serif;
 }
 
