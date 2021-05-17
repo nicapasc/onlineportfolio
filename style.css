@@ -47,10 +47,10 @@ p {
 }
 
 /* Link Colors */
-a:link    { color:  hsl(220, 33%, 37%);  }
-a:visited { color: hsla(199, 37%, 63%, 0.39); }
-a:hover   { color: hsl(120, 100%, 35%); }
-a:active  { color: hsl(120, 100%, 15%); }
+a:link    { color: whitesmoke;  }
+a:visited { color: whitesmoke;  }
+a:hover   { color:whitesmoke; }
+a:active  { color: whitesmoke; }
 
 div {
   height: auto;
